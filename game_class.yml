@@ -1,0 +1,35 @@
+---
+- !ruby/object:Game
+  name: unlessbreach
+  secret_word: simplified
+  progress:
+  - s
+  - i
+  - m
+  - _
+  - _
+  - i
+  - _
+  - i
+  - e
+  - _
+  incorrect:
+  - a
+  - n
+  fname: game_class.yml
+- !ruby/object:Game
+  name: geniusretention
+  secret_word: peninsula
+  progress:
+  - _
+  - e
+  - _
+  - i
+  - _
+  - _
+  - u
+  - _
+  - a
+  incorrect:
+  - o
+  fname: game_class.yml
